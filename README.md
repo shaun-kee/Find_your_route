@@ -5,6 +5,8 @@
 
 As delivery points are random in nature and can be located in any area, it is crucial to be able to group these points within a certain boundary so that it is able to be assigned to a deliveryman for dispatch. This can be done through clustering. 
 
+#### NOTE: This is done entirely in Google Colab, which is advisable to view it's entirety in Google Colab. JuypterLab/Notebook is also possible
+
 ### The Objective:
 
 1. To evaluate clustering methods in order to cluster delivery points so that delivery route can be optimised.
